@@ -37,23 +37,21 @@ const AppHeader = () => {
           <Text>Tiktok Video Downloader</Text>
           <Space h='lg' />
           <Text>
-            A web app that downloads tiktok videos without the annoying tiktok
-            watermark.
+            Aplikasi web yang mengunduh video tiktok tanpa tiktok yang mengganggu tanda air.
           </Text>
           <Space h='lg' />
-          <Title order={5}>Why you should use this kind of service?</Title>
+          <Title order={5}>Mengapa Anda harus menggunakan layanan semacam ini ?</Title>
           <Text>
-            Use this service to repost tiktok videos on other social media sites
-            without the annoying watermark
+            Gunakan layanan ini untuk memposting ulang video tiktok di situs media sosial lainnya
+            tanpa tanda air yang mengganggu
           </Text>
           <Space h='lg' />
-          <Title order={5}>How to use the service?</Title>
+          <Title order={5}>Bagaimana Cara Menggunakan ?</Title>
           <Text>
-            Just paste tiktok video link in the textbox and click getVideo, wait
-            for it to load the video info and download button.
+            Cukup tempel tautan video tiktok di kotak teks dan klik getVideo, tunggu untuk itu memuat info video dan tombol unduh.
           </Text>
           <Space h='lg' />
-          <Title order={5}>Tech used</Title>
+          <Title order={5}>dibuat menggunakan</Title>
           <List
             spacing='xs'
             size='sm'
