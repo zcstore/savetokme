@@ -54,7 +54,7 @@ const VideoBox = () => {
         <form onSubmit={form.onSubmit((values) => getVideoInfo(values))}>
           <Group position='center' spacing='xs' align='flex-start'>
             <TextInput
-              placeholder='Paste link here'
+              placeholder='Link Video Tiktok...'
               size='lg'
               sx={{ width: '600px' }}
               icon={<IconLink size={14} />}
