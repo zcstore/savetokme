@@ -17,10 +17,10 @@ function App() {
           <AppHeader />
 
           <Title order={3} align='center' sx={{ marginTop: '4em' }}>
-            Tiktok Video Downloader
+            Unduh Video Kesukaanmu
           </Title>
           <Title order={6} align='center'>
-            Download Tiktok Videos Without Watermark
+            download video tiktok tanpa watermark di savetok
           </Title>
 
           <VideoBox />
