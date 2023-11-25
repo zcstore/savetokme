@@ -6,7 +6,7 @@ import VideoBox from './components/VideoBox';
 function App() {
   return (
     <>
-      <MantineProvider
+      /*<MantineProvider
         theme={{
           fontFamily: 'Open Sans, sans-serif',
           headings: { fontFamily: 'Open Sans, sans-serif' },
@@ -25,7 +25,7 @@ function App() {
 
           <VideoBox />
         </Container>
-      </MantineProvider>
+      </MantineProvider>/*
     </>
   );
 }
