@@ -6,7 +6,7 @@ import VideoBox from './components/VideoBox';
 function App() {
   return (
     <>
-      /*<MantineProvider
+      <MantineProvider
         theme={{
           fontFamily: 'Open Sans, sans-serif',
           headings: { fontFamily: 'Open Sans, sans-serif' },
@@ -16,16 +16,16 @@ function App() {
         <Container size='md' px='md'>
           <AppHeader />
 
-          <Title order={3} align='center' sx={{ marginTop: '4em' }}>
+         /* <Title order={3} align='center' sx={{ marginTop: '4em' }}>
             Unduh Video Kesukaanmu
           </Title>
           <Title order={6} align='center'>
             download video tiktok tanpa watermark di savetok
-          </Title>
+          </Title>/*
 
           <VideoBox />
         </Container>
-      </MantineProvider>/*
+      </MantineProvider>
     </>
   );
 }
